@@ -12,7 +12,10 @@
     border-radius: 5px;
     border: 1px solid #ccc;
   }
-  
+  body{
+    
+    background-image: url("red.jpg");
+  }
   /* form submit button */
   .form-submit {
     background-color: #4CAF50;

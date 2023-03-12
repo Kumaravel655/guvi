@@ -3,7 +3,10 @@
     margin: 0 auto;
     width: 350px;
   }
-  
+  body{
+    
+    background-image: url("red.jpg");
+  }
   /* form input fields */
   .form-input {
     padding: 10px;
@@ -12,7 +15,13 @@
     border-radius: 5px;
     border: 1px solid #ccc;
   }
-  
+  label{
+color: #061407;
+background-color: aqua;
+padding: .5%;
+  };
+ 
+
   /* form submit button */
   .form-submit {
     background-color: #4CAF50;

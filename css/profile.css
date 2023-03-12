@@ -5,7 +5,10 @@
     margin: 0 auto;
     padding: 20px;
   }
-  
+  body{
+    
+    background-image: url("red.jpg");
+  }
   h1 {
     text-align: center;
   }
